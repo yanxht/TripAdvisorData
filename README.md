@@ -19,9 +19,11 @@ term, A, Xtrain, Xtest, ytrain, ytest = LoadTripAdvisorData()
 
 When you are using above dataset in your research, please consider to cite the following paper:
 
+```text
 @article{yan2018rare,
   title={Rare feature selection in high dimensions},
   author={Yan, Xiaohan and Bien, Jacob},
   journal={arXiv preprint arXiv:1803.06675},
   year={2018}
 }
+```
